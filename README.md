@@ -6,6 +6,8 @@ src="https://imgur.com/39Wv4ls.gif"/>
 <img width="800" 
 src="https://imgur.com/hMs5ziT.png"/>
 
+readme is a wip im too lazy to do dis
+
 
 
 
